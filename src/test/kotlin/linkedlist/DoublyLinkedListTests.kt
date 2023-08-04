@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 import org.junit.jupiter.api.Test
 
@@ -29,7 +29,7 @@ class DoublyLinkedListTests {
     }
 
     @Test
-    fun `pop`() {
+    fun pop() {
         val dll = createDoublyLinkedList()
 
         val expected = 1011

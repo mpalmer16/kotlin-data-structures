@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 data class DLLNode<T>(
     val data: T,

@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 import org.junit.jupiter.api.Test
 

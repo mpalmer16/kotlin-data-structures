@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 interface LinkedList<T> {
     fun push(data: T)

@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 data class LLNode<T>(
     val data: T,
